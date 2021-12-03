@@ -13,4 +13,6 @@
     <img src="./icons/c.png" height="100px">
 </div>
 
+---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deejayadi&show_icons=true&layout=compact" alt="deejayadi" />
