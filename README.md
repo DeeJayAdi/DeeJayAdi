@@ -19,22 +19,36 @@
 ## 🛠️ Technologies
 
 ![Apple](https://img.shields.io/badge/-Apple-000?&logo=apple)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
+![Flux](https://img.shields.io/badge/-FluxCD-000?&logo=flux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub--Actions-000?&logo=githubactions)
 ![K3S](https://img.shields.io/badge/-K3S-000?&logo=k3s)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![LXD](https://img.shields.io/badge/-LXD-000?&logo=lxd)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![Pi-hole](https://img.shields.io/badge/-Pi--hole-000?&logo=pihole)
 ![Postfix](https://img.shields.io/badge/-Postfix-000?&logo=maildotru)
+![Raspberry](https://img.shields.io/badge/-Raspberry-000?&logo=raspberrypi)
 ![qBittorrent](https://img.shields.io/badge/-qBittorrent-000?&logo=qbittorrent)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)
 ![ZFS](https://img.shields.io/badge/-ZFS-000?&logo=databricks)
 
+## 📦 My projects:
+
+- [Anita Style Website](https://anitastyle.pl)
+- [Cyborg Discord Bot](https://github.com/deejayadi/cyborg)
+- [Home Lab](./HomeLab.md)
+- [ZSŻŚ Orchestra Website](http://zegluga1.home.pl/orkiestra/pl/) <- This is my first public website, which I created by myself while studying at a technical school of information technology.
+
 ### 📫 How to reach me
 
 - [LinkedIn](https://linkedin.com/in/deejayadi)
 - [Website](https://deejayadi.pl)
+
+## Support me by [buying me a coffee](https://buycoffee.to/deejayadi)!
