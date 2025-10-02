@@ -41,6 +41,7 @@
 
 ## 📦 My projects:
 
+- [Helm charts](https://github.com/deejayadi/charts)
 - [Anita Style Website](https://anitastyle.pl)
 - [Cyborg Discord Bot](https://github.com/deejayadi/cyborg)
 - [Home Lab](./HomeLab.md)
