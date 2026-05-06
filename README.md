@@ -41,10 +41,10 @@
 
 ## 📦 My projects:
 
-- [Helm charts](https://github.com/deejayadi/charts)
+- [Cyborg Discord Bot](https://github.com/deejayadi/discord-bot)
 - [Anita Style Website](https://anitastyle.pl)
-- [Cyborg Discord Bot](https://github.com/deejayadi/cyborg)
 - [Home Lab](./HomeLab.md)
+- [Helm charts](https://github.com/deejayadi/charts)
 - [ZSŻŚ Orchestra Website](http://zegluga1.home.pl/orkiestra/pl/) <- This is my first public website, which I created by myself while studying at a technical school of information technology.
 
 ### 📫 How to reach me
