@@ -41,7 +41,7 @@
 
 ## 📦 My projects:
 
-- [Cyborg Discord Bot](https://github.com/deejayadi/discord-bot)
+- [Cyborg Discord Bot](https://discord.com/oauth2/authorize?client_id=1239855448346071123)
 - [Anita Style Website](https://anitastyle.pl)
 - [Home Lab](./HomeLab.md)
 - [Helm charts](https://github.com/deejayadi/charts)
